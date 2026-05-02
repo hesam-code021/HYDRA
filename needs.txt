@@ -1,0 +1,9 @@
+  1.server = []
+
+  2.port = []
+
+  3.account ID = []
+
+  4.pass or name word list = []
+
+  5.security protocol = []
