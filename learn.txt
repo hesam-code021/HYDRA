@@ -1,0 +1,7 @@
+  •apt update
+  •
+  •apt upgrade
+  •
+  •pkg install hydra
+  •
+  •write promt in the promt.txt
